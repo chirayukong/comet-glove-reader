@@ -1,0 +1,5 @@
+# APPLICATION SETTINGS (SpringApplication)
+spring.main.show-banner=false
+
+comet.glove.path=
+comet.glove.output=
